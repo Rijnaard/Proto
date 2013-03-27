@@ -1,0 +1,47 @@
+There are six .stl's in this directory
+
+There are four bottom files:
+
+	M3		
+	M3 FOOTED
+	STD
+	STD FOOTED
+
+The primary difference between the files is that you have a choice between 
+Metric (M3) and Standard (STD) hardware.  Once you choose what hardware you'd 
+like to use you need to decide whether you want a foot on the side - so you 
+can stand the case up and the probes won't be in the way.
+
+Choose one bottom file.
+
+
+
+There are two top files.
+
+	Top
+	Top FOOTED
+
+There is no unit associated with the top as it works with either metric or standard hardware.
+
+If you choose a non-footed file, just print the top.  For a footed case, print the Top FOOTED file.
+
+Choose one top file.
+
+
+What hardware to get?
+
+Well, the metric case takes M3 hardware. You will need:
+
+(4) M3 x 25mm screws
+(4) M3 nuts
+
+The standard hardware is:
+
+(4) 4-40 x 1.25" screws
+(4) 4-40 nuts
+
+Personally, I perfer Metric hardware - the screw pitch is finer which can be a plus 
+if you need to pull the nut into the trap.
+
+I've placed some images in this directory to give you an idea what the case looks like.
+
